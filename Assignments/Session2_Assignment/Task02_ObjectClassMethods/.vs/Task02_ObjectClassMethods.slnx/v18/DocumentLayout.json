@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Route\\C# Basics\\Assignments\\Session2_Assignment\\Task02_ObjectClassMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D929E84-C807-43BC-ACE0-234164C822E7}|Task02_ObjectClassMethods\\Task02_ObjectClassMethods.csproj|d:\\.net\\route\\c# basics\\assignments\\session2_assignment\\task02_objectclassmethods\\task02_objectclassmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D929E84-C807-43BC-ACE0-234164C822E7}|Task02_ObjectClassMethods\\Task02_ObjectClassMethods.csproj|solutionrelative:task02_objectclassmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\Route\\C# Basics\\Assignments\\Session2_Assignment\\Task02_ObjectClassMethods\\Task02_ObjectClassMethods\\Program.cs",
+              "RelativeDocumentMoniker": "Task02_ObjectClassMethods\\Program.cs",
+              "ToolTip": "D:\\.NET\\Route\\C# Basics\\Assignments\\Session2_Assignment\\Task02_ObjectClassMethods\\Task02_ObjectClassMethods\\Program.cs",
+              "RelativeToolTip": "Task02_ObjectClassMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T23:16:04.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

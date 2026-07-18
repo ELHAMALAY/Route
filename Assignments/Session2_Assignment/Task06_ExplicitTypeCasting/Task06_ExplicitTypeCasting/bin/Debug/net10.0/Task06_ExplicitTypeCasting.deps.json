@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Task06_ExplicitTypeCasting/1.0.0": {
+        "runtime": {
+          "Task06_ExplicitTypeCasting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task06_ExplicitTypeCasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

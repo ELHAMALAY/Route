@@ -1,0 +1,14 @@
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\bin\Debug\net10.0\Task11_NullableValueTypes.exe
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\bin\Debug\net10.0\Task11_NullableValueTypes.deps.json
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\bin\Debug\net10.0\Task11_NullableValueTypes.runtimeconfig.json
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\bin\Debug\net10.0\Task11_NullableValueTypes.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\bin\Debug\net10.0\Task11_NullableValueTypes.pdb
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\obj\Debug\net10.0\Task11_NullableValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\obj\Debug\net10.0\Task11_NullableValueTypes.AssemblyInfoInputs.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\obj\Debug\net10.0\Task11_NullableValueTypes.AssemblyInfo.cs
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\obj\Debug\net10.0\Task11_NullableValueTypes.csproj.CoreCompileInputs.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\obj\Debug\net10.0\Task11_NullableValueTypes.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\obj\Debug\net10.0\refint\Task11_NullableValueTypes.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\obj\Debug\net10.0\Task11_NullableValueTypes.pdb
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\obj\Debug\net10.0\Task11_NullableValueTypes.genruntimeconfig.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task11_NullableValueTypes\Task11_NullableValueTypes\obj\Debug\net10.0\ref\Task11_NullableValueTypes.dll

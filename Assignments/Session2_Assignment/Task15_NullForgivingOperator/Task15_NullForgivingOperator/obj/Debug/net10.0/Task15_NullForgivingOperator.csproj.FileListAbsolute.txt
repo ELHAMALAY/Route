@@ -1,0 +1,14 @@
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\bin\Debug\net10.0\Task15_NullForgivingOperator.exe
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\bin\Debug\net10.0\Task15_NullForgivingOperator.deps.json
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\bin\Debug\net10.0\Task15_NullForgivingOperator.runtimeconfig.json
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\bin\Debug\net10.0\Task15_NullForgivingOperator.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\bin\Debug\net10.0\Task15_NullForgivingOperator.pdb
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\obj\Debug\net10.0\Task15_NullForgivingOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\obj\Debug\net10.0\Task15_NullForgivingOperator.AssemblyInfoInputs.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\obj\Debug\net10.0\Task15_NullForgivingOperator.AssemblyInfo.cs
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\obj\Debug\net10.0\Task15_NullForgivingOperator.csproj.CoreCompileInputs.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\obj\Debug\net10.0\Task15_NullForgivingOperator.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\obj\Debug\net10.0\refint\Task15_NullForgivingOperator.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\obj\Debug\net10.0\Task15_NullForgivingOperator.pdb
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\obj\Debug\net10.0\Task15_NullForgivingOperator.genruntimeconfig.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task15_NullForgivingOperator\Task15_NullForgivingOperator\obj\Debug\net10.0\ref\Task15_NullForgivingOperator.dll

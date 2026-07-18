@@ -1,0 +1,14 @@
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\bin\Debug\net10.0\Task05_ImplicitTypeConversion.exe
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\bin\Debug\net10.0\Task05_ImplicitTypeConversion.deps.json
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\bin\Debug\net10.0\Task05_ImplicitTypeConversion.runtimeconfig.json
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\bin\Debug\net10.0\Task05_ImplicitTypeConversion.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\bin\Debug\net10.0\Task05_ImplicitTypeConversion.pdb
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\obj\Debug\net10.0\Task05_ImplicitTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\obj\Debug\net10.0\Task05_ImplicitTypeConversion.AssemblyInfoInputs.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\obj\Debug\net10.0\Task05_ImplicitTypeConversion.AssemblyInfo.cs
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\obj\Debug\net10.0\Task05_ImplicitTypeConversion.csproj.CoreCompileInputs.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\obj\Debug\net10.0\Task05_ImplicitTypeConversion.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\obj\Debug\net10.0\refint\Task05_ImplicitTypeConversion.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\obj\Debug\net10.0\Task05_ImplicitTypeConversion.pdb
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\obj\Debug\net10.0\Task05_ImplicitTypeConversion.genruntimeconfig.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task05_ImplicitTypeConversion\Task05_ImplicitTypeConversion\obj\Debug\net10.0\ref\Task05_ImplicitTypeConversion.dll

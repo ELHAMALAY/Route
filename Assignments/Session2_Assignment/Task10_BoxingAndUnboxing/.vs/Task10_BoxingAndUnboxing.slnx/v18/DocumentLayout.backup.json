@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Route\\C# Basics\\Assignments\\Session2_Assignment\\Task10_BoxingAndUnboxing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{874E3EEE-470B-4700-9E73-34E94CD823D1}|Task10_BoxingAndUnboxing\\Task10_BoxingAndUnboxing.csproj|d:\\.net\\route\\c# basics\\assignments\\session2_assignment\\task10_boxingandunboxing\\task10_boxingandunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874E3EEE-470B-4700-9E73-34E94CD823D1}|Task10_BoxingAndUnboxing\\Task10_BoxingAndUnboxing.csproj|solutionrelative:task10_boxingandunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\Route\\C# Basics\\Assignments\\Session2_Assignment\\Task10_BoxingAndUnboxing\\Task10_BoxingAndUnboxing\\Program.cs",
+              "RelativeDocumentMoniker": "Task10_BoxingAndUnboxing\\Program.cs",
+              "ToolTip": "D:\\.NET\\Route\\C# Basics\\Assignments\\Session2_Assignment\\Task10_BoxingAndUnboxing\\Task10_BoxingAndUnboxing\\Program.cs*",
+              "RelativeToolTip": "Task10_BoxingAndUnboxing\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T00:16:31.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

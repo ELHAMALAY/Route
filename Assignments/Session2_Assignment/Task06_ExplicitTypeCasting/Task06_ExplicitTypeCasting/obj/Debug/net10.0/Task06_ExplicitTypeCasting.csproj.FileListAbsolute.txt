@@ -1,0 +1,14 @@
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\bin\Debug\net10.0\Task06_ExplicitTypeCasting.exe
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\bin\Debug\net10.0\Task06_ExplicitTypeCasting.deps.json
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\bin\Debug\net10.0\Task06_ExplicitTypeCasting.runtimeconfig.json
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\bin\Debug\net10.0\Task06_ExplicitTypeCasting.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\bin\Debug\net10.0\Task06_ExplicitTypeCasting.pdb
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\obj\Debug\net10.0\Task06_ExplicitTypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\obj\Debug\net10.0\Task06_ExplicitTypeCasting.AssemblyInfoInputs.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\obj\Debug\net10.0\Task06_ExplicitTypeCasting.AssemblyInfo.cs
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\obj\Debug\net10.0\Task06_ExplicitTypeCasting.csproj.CoreCompileInputs.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\obj\Debug\net10.0\Task06_ExplicitTypeCasting.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\obj\Debug\net10.0\refint\Task06_ExplicitTypeCasting.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\obj\Debug\net10.0\Task06_ExplicitTypeCasting.pdb
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\obj\Debug\net10.0\Task06_ExplicitTypeCasting.genruntimeconfig.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task06_ExplicitTypeCasting\Task06_ExplicitTypeCasting\obj\Debug\net10.0\ref\Task06_ExplicitTypeCasting.dll

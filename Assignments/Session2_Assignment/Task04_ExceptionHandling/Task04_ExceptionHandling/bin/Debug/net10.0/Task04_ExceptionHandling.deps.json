@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Task04_ExceptionHandling/1.0.0": {
+        "runtime": {
+          "Task04_ExceptionHandling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task04_ExceptionHandling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

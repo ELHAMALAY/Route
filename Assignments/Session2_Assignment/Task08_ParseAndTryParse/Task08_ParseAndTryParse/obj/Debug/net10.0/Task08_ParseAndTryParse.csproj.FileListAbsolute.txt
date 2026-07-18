@@ -1,0 +1,14 @@
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\bin\Debug\net10.0\Task08_ParseAndTryParse.exe
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\bin\Debug\net10.0\Task08_ParseAndTryParse.deps.json
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\bin\Debug\net10.0\Task08_ParseAndTryParse.runtimeconfig.json
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\bin\Debug\net10.0\Task08_ParseAndTryParse.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\bin\Debug\net10.0\Task08_ParseAndTryParse.pdb
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\obj\Debug\net10.0\Task08_ParseAndTryParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\obj\Debug\net10.0\Task08_ParseAndTryParse.AssemblyInfoInputs.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\obj\Debug\net10.0\Task08_ParseAndTryParse.AssemblyInfo.cs
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\obj\Debug\net10.0\Task08_ParseAndTryParse.csproj.CoreCompileInputs.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\obj\Debug\net10.0\Task08_ParseAndTryParse.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\obj\Debug\net10.0\refint\Task08_ParseAndTryParse.dll
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\obj\Debug\net10.0\Task08_ParseAndTryParse.pdb
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\obj\Debug\net10.0\Task08_ParseAndTryParse.genruntimeconfig.cache
+D:\.NET\Route\C# Basics\Assignments\Session2_Assignment\Task08_ParseAndTryParse\Task08_ParseAndTryParse\obj\Debug\net10.0\ref\Task08_ParseAndTryParse.dll
