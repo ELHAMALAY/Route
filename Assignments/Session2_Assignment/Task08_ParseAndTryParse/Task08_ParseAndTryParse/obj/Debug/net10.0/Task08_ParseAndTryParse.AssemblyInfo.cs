@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task08_ParseAndTryParse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fc90832b61a1ff8ac0dd0a824c39b75671f08e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea4ffc0ad89496fd890f5324d349c31e2c8e7c09")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task08_ParseAndTryParse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task08_ParseAndTryParse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
