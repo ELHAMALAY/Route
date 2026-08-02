@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task06_ExplicitTypeCasting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea4ffc0ad89496fd890f5324d349c31e2c8e7c09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be86778f4e4e6641c27c8a58ee7d0c9791cf0016")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task06_ExplicitTypeCasting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task06_ExplicitTypeCasting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
