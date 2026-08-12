@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>SmartDeliverySystem</RootNamespace>
+    <ProjectGuid>{3B71FD6A-5073-4806-A9CD-5C34CB929EB0}</ProjectGuid>
+  </PropertyGroup>
+
+</Project>
