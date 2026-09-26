@@ -194,3 +194,133 @@ INNER JOIN DrugAdministrations DA
 	ON p.Id = DA.PatientId
 INNER JOIN Nurses n
 	ON DA.NurseId = n.Number;
+
+-- Q21
+SELECT 
+	Id,
+	Name,
+	Salary,
+	Row_Number() OVER (ORDER BY Salary DESC) AS RowNum
+FROM Consultants;
+
+-- Q22
+SELECT 
+	Id,
+	Name,
+	Salary,
+	Row_Number() OVER (ORDER BY Salary ASC) AS RowNum
+FROM Consultants;
+
+-- Q23
+SELECT 
+	Id,
+	Name,
+	Salary,
+	Row_Number() OVER (ORDER BY Salary, Name) AS RowNum
+FROM Consultants;
+
+-- Q24
+SELECT 
+	Id,
+	Name,
+	Salary,
+	RANK() OVER (ORDER BY Salary DESC) AS RowNum
+FROM Consultants;
+
+-- Q25
+SELECT 
+	Id,
+	Name,
+	Salary,
+	RANK() OVER (ORDER BY Salary ASC) AS RowNum
+FROM Consultants;
+
+-- Q26
+SELECT
+    Name, Salary,
+    RANK() OVER (ORDER BY Salary DESC) AS SalaryRank
+FROM Consultants
+ORDER BY Salary DESC;
+
+-- Q27
+SELECT
+    Id, Name, Salary,
+    DENSE_RANK() OVER (ORDER BY Salary DESC) AS SalaryDenseRank
+FROM Consultants;
+
+-- Q28
+SELECT 
+	Name, Salary,
+    DENSE_RANK() OVER (ORDER BY Salary DESC) AS SalaryDenseRank
+FROM Consultants
+ORDER BY Salary DESC;
+
+-- Q29
+SELECT
+	name, salary,
+	RANK()		 OVER (ORDER BY salary DESC) AS rank,
+	DENSE_RANK() OVER (ORDER BY salary DESC) AS dense_rank
+FROM Consultants;
+
+-- Q30
+SELECT
+    Id, Name, Salary,
+    NTILE(2) OVER (ORDER BY Salary DESC) AS SalaryGroup
+FROM Consultants;
+
+-- Q31
+SELECT
+    Id, Name, Salary,
+    NTILE(3) OVER (ORDER BY Salary DESC) AS SalaryGroup
+FROM Consultants;
+
+-- Q32
+SELECT
+    Id, Name, Salary,
+    NTILE(4) OVER (ORDER BY Salary DESC) AS SalaryGroup
+FROM Consultants
+ORDER BY SalaryGroup;
+
+-- Q33
+SELECT
+	N.Number,
+	N.Name,
+	N.Salary,
+	N.ServesInWardId,
+	RANK() OVER (PARTITION BY N.ServesInWardId ORDER BY N.Salary DESC) AS WardSalaryRank
+FROM Nurses N;
+
+-- Q34
+SELECT
+    N.Number,
+	N.Name,
+	N.Salary,
+	N.ServesInWardId,
+    ROW_NUMBER() OVER (PARTITION BY N.ServesInWardId ORDER BY N.Salary DESC) AS WardRowNum
+FROM Nurses N;
+
+-- Q35
+SELECT
+    N.Number,
+	N.Name,
+	N.Salary,
+	N.ServesInWardId,
+    DENSE_RANK() OVER (PARTITION BY N.ServesInWardId ORDER BY N.Salary DESC) AS WardDenseRank
+FROM Nurses N;
+
+-- Q36
+SELECT
+    N.Number,
+	N.Name,
+	N.Salary,
+	N.ServesInWardId,
+    NTILE(2) OVER (PARTITION BY N.ServesInWardId ORDER BY N.Salary DESC) AS WardSalaryGroup
+FROM Nurses N;
+
+-- Q37
+SELECT
+    N.Name       AS NurseName,
+    W.Name       AS WardName,
+    RANK() OVER (PARTITION BY N.ServesInWardId ORDER BY N.Salary DESC) AS WardSalaryRank
+FROM Nurses N
+JOIN Wards W ON N.ServesInWardId = W.Id;
