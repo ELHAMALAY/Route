@@ -1,0 +1,147 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">كمل
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>@ViewData["Title"] · Route Gym</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+          rel="stylesheet" />
+
+    <link rel="stylesheet"
+          href="~/assets/bootstrap-icons/font/bootstrap-icons.min.css" />
+
+    <link rel="stylesheet"
+          href="~/assets/css/route.css" />
+
+    @await RenderSectionAsync("Styles", required: false)
+</head>
+
+<body>
+    <div class="app">
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+
+            <a class="brand" asp-controller="Home" asp-action="Index">
+                <span class="brand-mark">R</span>
+
+                <span class="brand-text">
+                    <span class="brand-name">ROUTE</span>
+                    <span class="brand-sub">Gym Management</span>
+                </span>
+            </a>
+
+            <nav>
+
+                <div class="nav-group">
+                    <div class="nav-label">Overview</div>
+
+                    <a class="nav-link-r @(ViewContext.RouteData.Values["controller"]?.ToString() == "Home" ? "active" : "")"
+                       asp-controller="Home"
+                       asp-action="Index">
+                        <i class="bi bi-grid-1x2"></i>
+                        Dashboard
+                    </a>
+                </div>
+
+                <div class="nav-group">
+                    <div class="nav-label">People</div>
+
+                    <a class="nav-link-r" href="#">
+                        <i class="bi bi-people"></i>
+                        Members
+                    </a>
+
+                    <a class="nav-link-r" href="#">
+                        <i class="bi bi-person-badge"></i>
+                        Trainers
+                    </a>
+                </div>
+
+                <div class="nav-group">
+                    <div class="nav-label">Gym</div>
+
+                    <a class="nav-link-r @(ViewContext.RouteData.Values["controller"]?.ToString() == "Plan" ? "active" : "")"
+                       asp-controller="Plan"
+                       asp-action="Index">
+                        <i class="bi bi-tags"></i>
+                        Plans
+                    </a>
+
+                    <a class="nav-link-r" href="#">
+                        <i class="bi bi-card-checklist"></i>
+                        Memberships
+                    </a>
+
+                    <a class="nav-link-r" href="#">
+                        <i class="bi bi-calendar-week"></i>
+                        Sessions
+                    </a>
+                </div>
+
+            </nav>
+
+            <div class="sidebar-foot">
+                <span class="track-chip">.NET Track</span>
+                <span>Route Academy</span>
+            </div>
+
+        </aside>
+
+        <div class="scrim" data-nav-toggle></div>
+
+        <!-- Main Content -->
+        <div class="main">
+
+            <header class="topbar">
+
+                <button class="burger"
+                        type="button"
+                        data-nav-toggle
+                        aria-label="Open menu">
+                    <i class="bi bi-list"></i>
+                </button>
+
+                <div class="crumbs">
+
+                    <a asp-controller="Home" asp-action="Index">
+                        <i class="bi bi-house-door"></i>
+                    </a>
+
+                    <span class="sep">/</span>
+
+                    <span class="here">@ViewData["Title"]</span>
+
+                </div>
+
+                <div class="topbar-right">
+
+                    <span class="date-chip">
+                        <i class="bi bi-calendar3"></i>
+                        @DateTime.Today.ToString("dddd, dd MMM yyyy")
+                    </span>
+
+                </div>
+
+            </header>
+
+            <!-- Each View will appear here -->
+            <main class="content">
+                @RenderBody()
+            </main>
+
+        </div>
+    </div>
+
+    <script src="~/assets/js/site.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

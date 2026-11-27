@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GymManagementSystem.Application/GymManagementSystem.Application.csproj" />
+  <Project Path="GymManagementSystem.Domain/GymManagementSystem.Domain.csproj" />
+  <Project Path="GymManagementSystem.Infrastructure/GymManagementSystem.Infrastructure.csproj" />
+  <Project Path="GymManagementSystem.Web/GymManagementSystem.Web.csproj" />
+</Solution>

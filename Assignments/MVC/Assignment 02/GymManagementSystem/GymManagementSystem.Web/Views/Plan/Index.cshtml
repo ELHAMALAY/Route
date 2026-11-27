@@ -1,0 +1,28 @@
+﻿@model IEnumerable<GymManagementSystem.Domain.Entities.Plan>
+
+@{
+    ViewData["Title"] = "Plans";
+}
+
+@foreach (var plan in Model)
+{
+    <div class="card-r plan-card @(plan.IsActive ? "" : "inactive")">
+        <h2 class="plan-name">@plan.Name</h2>
+
+        <span class="badge-r @(plan.IsActive ? "badge-ok" : "badge-mute")">
+            @(plan.IsActive ? "Active" : "Inactive")
+        </span>
+
+        <div class="plan-price">
+            @plan.Price.ToString("N0")
+            <small>EGP</small>
+        </div>
+
+        <div class="plan-meta">
+            <i class="bi bi-calendar-range"></i>
+            @plan.DurationDays days
+        </div>
+
+        <p class="plan-desc">@plan.Description</p>
+    </div>
+}
